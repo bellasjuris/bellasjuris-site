@@ -1,7 +1,7 @@
 ---
 title: BellasJuris
 subtitle: 4 mulheres advogadas e professoras.
-image: /img/dsc_1442.jpg
+image: /img/dsc_1517.jpg
 blurb:
   heading: Sobre o projeto
   text: >-
