@@ -1,21 +1,20 @@
 ---
 title: BellasJuris
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+subtitle: '4 mulheres, advogadas e professoras.'
+image: /img/dsc_1422.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Sobre o projeto
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    O projeto BellasJuris nasceu da união de cinco advogadas, professoras e
+    amigas, que possuem em comum, a intenção de produção de conteúdo voltado
+    para área jurídica, tanto para advogados e acadêmicos, quanto para
+    operadores do direito em geral.
 intro:
-  heading: What we offer
+  heading: Objetivo
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Contribuir com a extensão e aprimoramento de advogadas e advogados,
+    independente de idade ou progressão na carreira, quanto aos mais diversos
+    assuntos, bem como com a formação dos acadêmicos de direito.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
