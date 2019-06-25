@@ -17,11 +17,14 @@ intro:
     assuntos, bem como com a formação dos acadêmicos de direito.
 products: []
 values:
-  heading: Our values
-  text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Publicações
+  text: >+
+    O evento Café com Bellas será realizado no dia 02/07/2019, no Sterna Café
+    localizado na 702/703 Norte. Será uma roda de conversa com 3 convidados para
+    debater sobre "O porte de Armas e o Feminícidio. 
+
+
+    Esse é o primeiro evento das BellasJuris para disseminação da informação e
+    da cultura local.
 ---
 
